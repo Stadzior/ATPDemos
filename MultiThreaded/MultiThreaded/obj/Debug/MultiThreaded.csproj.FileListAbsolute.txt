@@ -1,0 +1,5 @@
+c:\users\mariusz\documents\visual studio 2015\Projects\MultiThreaded\MultiThreaded\bin\Debug\MultiThreaded.exe.config
+c:\users\mariusz\documents\visual studio 2015\Projects\MultiThreaded\MultiThreaded\bin\Debug\MultiThreaded.exe
+c:\users\mariusz\documents\visual studio 2015\Projects\MultiThreaded\MultiThreaded\bin\Debug\MultiThreaded.pdb
+c:\users\mariusz\documents\visual studio 2015\Projects\MultiThreaded\MultiThreaded\obj\Debug\MultiThreaded.exe
+c:\users\mariusz\documents\visual studio 2015\Projects\MultiThreaded\MultiThreaded\obj\Debug\MultiThreaded.pdb

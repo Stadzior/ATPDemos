@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TworzenieAplikacjiBiznesowychATP", "TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP.csproj", "{C03680E9-24BA-4BDA-B60C-5FD88352901A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C03680E9-24BA-4BDA-B60C-5FD88352901A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C03680E9-24BA-4BDA-B60C-5FD88352901A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C03680E9-24BA-4BDA-B60C-5FD88352901A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C03680E9-24BA-4BDA-B60C-5FD88352901A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = 54dbe08b-f57e-4a7d-8352-1990c845d78b
+	EndGlobalSection
+EndGlobal

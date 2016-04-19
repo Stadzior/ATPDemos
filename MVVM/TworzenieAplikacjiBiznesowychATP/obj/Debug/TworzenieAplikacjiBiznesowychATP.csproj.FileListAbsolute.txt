@@ -1,0 +1,98 @@
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\bin\Debug\TworzenieAplikacjiBiznesowychATP.exe.config
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\bin\Debug\TworzenieAplikacjiBiznesowychATP.exe
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\bin\Debug\TworzenieAplikacjiBiznesowychATP.pdb
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP.csprojResolveAssemblyReference.cache
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\obj\Debug\MainWindow.g.cs
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\obj\Debug\App.g.cs
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP_MarkupCompile.cache
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP_MarkupCompile.lref
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\obj\Debug\MainWindow.baml
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP.g.resources
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP.Properties.Resources.resources
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP.csproj.GenerateResource.Cache
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP.exe
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP.pdb
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\obj\Debug\App.baml
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\obj\Debug\View\PersonListView.g.cs
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP\TworzenieAplikacjiBiznesowychATP\obj\Debug\View\PersonListView.baml
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\bin\Debug\TworzenieAplikacjiBiznesowychATP.exe.config
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP.exe
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP.pdb
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\bin\Debug\TworzenieAplikacjiBiznesowychATP.exe
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\bin\Debug\TworzenieAplikacjiBiznesowychATP.pdb
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP.csprojResolveAssemblyReference.cache
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\obj\Debug\MainWindow.g.cs
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\obj\Debug\View\PersonListView.g.cs
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\obj\Debug\App.g.cs
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP_MarkupCompile.cache
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP_MarkupCompile.lref
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\obj\Debug\App.baml
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\obj\Debug\MainWindow.baml
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\obj\Debug\View\PersonListView.baml
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP.g.resources
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP.Properties.Resources.resources
+C:\Users\PLDAGAS\Desktop\TworzenieAplikacjiBiznesowychATP - Training\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP.csproj.GenerateResource.Cache
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\bin\Debug\TworzenieAplikacjiBiznesowychATP.exe.config
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP.exe
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\bin\Debug\TworzenieAplikacjiBiznesowychATP.exe
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\bin\Debug\TworzenieAplikacjiBiznesowychATP.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\obj\Debug\MainWindow.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\obj\Debug\View\PersonListView.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\obj\Debug\App.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP_MarkupCompile.cache
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP_MarkupCompile.lref
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\obj\Debug\App.baml
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\obj\Debug\MainWindow.baml
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\obj\Debug\View\PersonListView.baml
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP.g.resources
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP.Properties.Resources.resources
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\obj\Debug\TworzenieAplikacjiBiznesowychATP.csproj.GenerateResource.Cache
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\bin\Debug\MahApps.Metro.dll
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\bin\Debug\MahApps.Metro.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\bin\Debug\MahApps.Metro.xml
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\obj\Debug\View\AuthorFlyoutView.g.cs
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\TworzenieAplikacjiBiznesowychATP - After demo training\TworzenieAplikacjiBiznesowychATP\obj\Debug\View\AuthorFlyoutView.baml

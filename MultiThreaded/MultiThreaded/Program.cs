@@ -13,27 +13,67 @@ namespace MultiThreaded
         {
             //JumpStart();
 
-            //CancellationTokenSource tokenSource = new CancellationTokenSource();
+            //SomeExamples();
 
-            //List<int> list = new List<int>();
+            //WhenAnyExample();
 
-            //for (int i = 1;i<1000; ++i)
-            //{
-            //    list.Add(i);
-            //}
+            ParallelForEachExample();
+        }
 
-            //Task<List<double>> powers = Task<List<double>>.Factory.StartNew(() => Compute(list, 2),tokenSource.Token),
-            //    powers2 = Task<List<double>>.Factory.StartNew(()=> Compute(list,3),tokenSource.Token);
+        public static void ParallelForEachExample()
+        {
+            var foos = new List<Foo>
+            {
+                new Foo { Bar = "A" },
+                new Foo { Bar = "B" },
+                new Foo { Bar = "C" },
+                new Foo { Bar = "D" },
+                new Foo { Bar = "E" },
+                new Foo { Bar = "F" },
+                new Foo { Bar = "G" },
+                new Foo { Bar = "H" },
+                new Foo { Bar = "I" }
+            };
 
-            //Thread.Sleep(1);
+            var results = new List<string>();
+            Parallel.ForEach(foos, x =>
+            {
+                var result = LongWorkingThingy(x.Bar);
+                Console.WriteLine(result);
+                results.Add(result);
+            });
+            
+            Console.WriteLine("-----------------------------------------");
+            foreach (var result in results)
+                Console.WriteLine(result);
+            Console.ReadLine();
+        }
 
-            //while(powers.Status == TaskStatus.Running && powers2.Status == TaskStatus.Running)
-            //{
-            //    Console.WriteLine("Czekam...");
-            //}
+        public static void SomeExamples()
+        {
+            CancellationTokenSource tokenSource = new CancellationTokenSource();
 
-            //Console.ReadLine();
+            List<int> list = new List<int>();
 
+            for (int i = 1; i < 1000; ++i)
+            {
+                list.Add(i);
+            }
+
+            Task<List<double>> powers = Task<List<double>>.Factory.StartNew(() => Compute(list, 2), tokenSource.Token), powers2 = Task<List<double>>.Factory.StartNew(() => Compute(list, 3), tokenSource.Token);
+
+            Thread.Sleep(1);
+
+            while (powers.Status == TaskStatus.Running && powers2.Status == TaskStatus.Running)
+            {
+                Console.WriteLine("Czekam...");
+            }
+
+            Console.ReadLine();
+        }
+
+        public static void WhenAnyExample()
+        {
             var foos = new List<Foo>
             {
                 new Foo { Bar = "A" },
@@ -57,7 +97,6 @@ namespace MultiThreaded
             foreach (var result in results)
                 Console.WriteLine(result);
             Console.ReadLine();
-
         }
 
         public static async Task<List<string>> GetResults(List<Task<string>> tasks)

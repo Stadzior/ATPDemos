@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Events/Events/obj
+/Lambda/Lambda/obj
+/Linq/Linq/obj
+/MultiThreaded/.vs/MultiThreaded/v15
